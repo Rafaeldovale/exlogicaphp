@@ -14,3 +14,10 @@ Ex:
 Nome do Funcionário: Maria do Carmo
 Salário: 1850,45
 O funcionário Maria do Carmo tem um salário de R$1850,45 em Junho.
+
+4) Desenvolva um algoritmo que leia dois números inteiros e mostre o somatório
+entre eles.
+Ex:
+Digite um valor: 8
+Digite outro valor: 5
+A soma entre 8 e 5 é igual a 13.
