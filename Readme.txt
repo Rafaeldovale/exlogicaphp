@@ -67,3 +67,6 @@ segundo grau e mostre o valor de Delta.
 
 12) Crie um programa que leia o preço de um produto, calcule e mostre o seu
 PREÇO PROMOCIONAL, com 5% de desconto.
+
+13) Faça um algoritmo que leia o salário de um funcionário, calcule e mostre o
+seu novo salário, com 15% de aumento.
