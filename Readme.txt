@@ -64,3 +64,6 @@ sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
 
 11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
 segundo grau e mostre o valor de Delta.
+
+12) Crie um programa que leia o preço de um produto, calcule e mostre o seu
+PREÇO PROMOCIONAL, com 5% de desconto.
