@@ -61,3 +61,6 @@ e mostre quantos dólares ela pode comprar. Considere US$1,00 = R$3,45.
 10) Faça um algoritmo que leia a largura e altura de uma parede, calcule e
 mostre a área a ser pintada e a quantidade de tinta necessária para o serviço,
 sabendo que cada litro de tinta pinta uma área de 2metros quadrados.
+
+11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
+segundo grau e mostre o valor de Delta.
