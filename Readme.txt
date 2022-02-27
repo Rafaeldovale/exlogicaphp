@@ -98,3 +98,6 @@ não um bom aproveitamento (se ficou acima da média 7.0).
 
 20) Desenvolva um programa que leia um número inteiro e mostre se ele é PAR ou
 ÍMPAR.
+
+21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
+BISSEXTO.
