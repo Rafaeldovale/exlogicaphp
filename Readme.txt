@@ -101,3 +101,10 @@ não um bom aproveitamento (se ficou acima da média 7.0).
 
 21) Faça um algoritmo que leia um determinado ano e mostre se ele é ou não
 BISSEXTO.
+
+22) Escreva um programa que leia o ano de nascimento de um rapaz e mostre a sua
+situação em relação ao alistamento militar.
+ - Se estiver antes dos 18 anos, mostre em quantos anos faltam para o
+alistamento.
+ - Se já tiver depois dos 18 anos, mostre quantos anos já se passaram do
+alistamento.
