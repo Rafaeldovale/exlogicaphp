@@ -91,3 +91,7 @@ o valor da multa, cobrando R$5 por cada Km acima da velocidade permitida.
 
 18) Faça um programa que leia o ano de nascimento de uma pessoa, calcule a idade
 dela e depois mostre se ela pode ou não votar.
+
+19) Crie um algoritmo que leia o nome e as duas notas de um aluno, calcule a sua
+média e mostre na tela. No final, analise a média e mostre se o aluno teve ou
+não um bom aproveitamento (se ficou acima da média 7.0).
