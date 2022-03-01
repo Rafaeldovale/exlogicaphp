@@ -12,4 +12,24 @@ $nome = $_POST['nome'];
 $salario = $_POST['salario'];
 
 echo "O funcinário $nome tem um salário de R$ $salario em Junho.";
+
+echo "<br><hr><br>";
+
+class Funcionario{
+    public $nome;
+    public $salario;
+
+    function __construct($nome,$salario){
+        echo 'Recebendo dados<br>';
+        $this->nome = $nome;
+        $this->salario = $salario;
+        
+    }
+    public function exebir(){
+        echo "O funcinário {$this->nome} tem um salário de R$ {$this->salario} em Junho.";
+
+    }
+}
+$funcionarioA = new Funcionario($nome,$salario);
+$funcionarioA->exebir();
 ?>

@@ -13,7 +13,7 @@ class Pessoa {
     public $nome;
     
     function __construct($novoNome){
-        echo 'nome:<br>';
+        echo 'Confirmando nome<br>';
         $this->nome = $novoNome;
        
     }
