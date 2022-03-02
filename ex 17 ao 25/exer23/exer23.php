@@ -20,3 +20,6 @@ if($_POST['sex'] == 'Masculino')
     $DesHomem = $compra - ($compra * 0.05);
     echo "Ola $nome seu genero sendo $genero sua compra teve 5% de desconto e ficou R$$DesHomem";
 }
+
+echo "<br><hr><br>";
+
