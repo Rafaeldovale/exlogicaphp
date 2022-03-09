@@ -115,3 +115,12 @@ sexo e o valor das compras do cliente e calcule o preço com desconto. Sabendo
 que:
  - Homens ganham 5% de desconto
  - Mulheres ganham 13% de desconto
+
+ 24) Faça um algoritmo que pergunte a distância que um passageiro deseja
+percorrer em Km. Calcule o preço da passagem, cobrando R$0.50 por Km para
+viagens até 200Km e R$0.45 para viagens mais longas.
+
+25) [DESAFIO] Crie um programa que leia o tamanho de três segmentos de reta.
+Analise seus comprimentos e diga se é possível formar um triângulo com essas
+retas. Matematicamente, para três segmentos formarem um triângulo, o comprimento
+de cada lado deve ser menor que a soma dos outros dois.
