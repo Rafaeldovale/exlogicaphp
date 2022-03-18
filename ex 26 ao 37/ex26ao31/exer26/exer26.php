@@ -8,10 +8,10 @@ na tela uma das mensagens abaixo:
  $valor1 = $_POST['valor1'];
  $valor2 = $_POST['valor2'];
 
- if($valor1 > $valor2){
-     echo " O primeiro valor é maior";
+ if($valor1 == $valor2){
+     echo "Os valores são iguais";
  }else if($valor1 < $valor2){
      echo "O segundo valor é maior";
  }else{
-     echo "Não existe valor maior, os dois são iguais";
+     echo "O primeiro é maior";
  }
