@@ -209,3 +209,26 @@ No final, mostre o seu novo salário, baseado na tabela a seguir:
  - menos de 20 anos de empresa: +3%
  - de 20 até 30 anos de empresa: +13%
  - mais de 30 anos de empresa: +25% 
+
+PASSO 04 – REPETIÇÕES ENQUANTO
+
+38) Escreva um programa que mostre na tela a seguinte contagem:
+6 7 8 9 10 11 Acabou!
+
+39) Faça um algoritmo que mostre na tela a seguinte contagem:
+10 9 8 7 6 5 4 3 Acabou!
+
+40) Crie um aplicativo que mostre na tela a seguinte contagem:
+0 3 6 9 12 15 18 Acabou!
+
+41) Desenvolva um programa que mostre na tela a seguinte contagem:
+100 95 90 85 80 ... 0 Acabou!
+
+42) Faça um algoritmo que pergunte ao usuário um número inteiro e positivo
+qualquer e mostre uma contagem até esse valor:
+Ex: Digite um valor: 35
+Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!
+
+43) Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1,
+marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo:
+30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
