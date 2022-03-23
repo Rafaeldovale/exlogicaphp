@@ -232,3 +232,20 @@ Contagem: 1 2 3 4 5 6 7 ... 33 34 35 Acabou!
 43) Desenvolva um algoritmo que mostre uma contagem regressiva de 30 até 1,
 marcando os números que forem divisíveis por 4, exatamente como mostrado abaixo:
 30 29 [28] 27 26 25 [24] 23 22 21 [20] 19 18 17 [16]...
+
+44) Crie um algoritmo que leia o valor inicial da contagem, o valor final e o
+incremento, mostrando em seguida todos os valores no intervalo:
+Ex: Digite o primeiro Valor: 3
+Digite o último Valor: 10
+Digite o incremento: 2
+Contagem: 3 5 7 9 Acabou!
+
+45) O programa acima vai ter um problema quando digitarmos o primeiro valor
+maior que o último. Resolva esse problema com um código que funcione em qualquer
+situação.
+
+46) Crie um programa que calcule e mostre na tela o resultado da soma entre 6 +
+8 + 10 + 12 + 14 + ... + 98 + 100.
+
+47) Desenvolva um aplicativo que mostre na tela o resultado da expressão 500 +
+450 + 400 + 350 + 300 + ... + 50 + 0
